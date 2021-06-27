@@ -199,6 +199,8 @@ header a {
     color: var(--secondary-color);
 }
 
+/* media queries */
+
 @media screen and (max-width: 980px) {
     header nav ul li a {
         font-size: 20px;
@@ -208,4 +210,3 @@ header a {
         font-size: 15px;
     }
 }
-
