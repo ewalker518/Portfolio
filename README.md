@@ -12,4 +12,4 @@ My professional music resume is the one available for download, that will be rep
 
 ### URL
 
-https://github.com/ewalker518/Portfolio
+https://ewalker518.github.io/Portfolio/
