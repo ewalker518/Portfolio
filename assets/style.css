@@ -70,7 +70,7 @@ header a {
 }
 
 .section-title {
-    font-size 36px;
+    font-size: 36px;
     display: flex;
     padding: 20px 20px 20px 20px;
     text-align: center;
@@ -145,7 +145,7 @@ header a {
 }
 
 .project-3 {
-    background-image: url("./images/password-generator.jpg");
+    background-image: url("./images/dnd.jpg");
     background-size: cover;
     background-position: center;
 }
